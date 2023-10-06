@@ -1,0 +1,1 @@
+//window.alert("O botão Modo Escuro ainda não está em funcionamento.")
